@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Framework</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="esqueciSenha">Esqueceu a senha ?</string>
+    <string name="entrar">Entrar</string>
+    <string name="carregando">Carregando</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="botao_checkout">Botao_Checkout</string>
+    <string name="botao_mais">Botao_Mais</string>
+    <string name="botao_menos">Botao_Menos</string>
+    <string name="comprar">Comprar</string>
+    <string name="_1">1</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+</resources>

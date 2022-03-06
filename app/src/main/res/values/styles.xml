@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Estilo de Layout do TextInputLayout -->
+    <style name="Tema_loginEdit" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">@color/Framework</item>
+        <item name="colorControlNormal">@color/Framework</item>
+        <item name="colorControlActivated">@color/Framework</item>
+        <item name="android:textColorHint">@color/Framework</item>
+    </style>
+
+    <style name="Appearance_loginEdit" parent="Theme.AppCompat.Light">
+        <item name="android:textColor">@color/Framework</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>
